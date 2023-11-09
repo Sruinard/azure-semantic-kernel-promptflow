@@ -1,0 +1,5 @@
+promptflow
+promptflow-tools
+Werkzeug==2.2.2
+--extra-index-url https://azuremlsdktestpypi.azureedge.net/promptflow/
+promptflow-sdk[builtins]

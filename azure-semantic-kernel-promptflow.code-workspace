@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "math_copilot"
+		}
+	],
+	"settings": {
+		"python.terminal.activateEnvironment": true
+	}
+}
